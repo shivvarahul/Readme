@@ -1,0 +1,4 @@
+gateway_region,total_transactions,total_gmv_usd,avg_risk_score,high_value_transactions,high_risk_transactions
+APAC,22,82594.0,65.47619047619048,5,7
+EU,4,18886.0,47.25,1,1
+US,4,14600.0,48.75,1,1

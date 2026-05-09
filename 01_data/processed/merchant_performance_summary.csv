@@ -1,0 +1,6 @@
+merchant_id,merchant_name,total_transactions,total_chargebacks,avg_risk_score,high_value_transactions,high_risk_transactions,captured_gmv
+M001,Alpha Mart,11,1,61.2,2,2,29984.5
+M002,Beta Stores,11,1,69.36363636363636,3,5,33431.0
+M003,City Pharma,2,0,40.0,0,0,8640.0
+M004,Delta Travels,4,1,48.75,1,1,10300.0
+M005,Eco Home,2,1,54.5,1,1,0.0
